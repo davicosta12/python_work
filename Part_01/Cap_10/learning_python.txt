@@ -1,0 +1,15 @@
+Em Python podemos usar listas
+Em Python podemos usar tuplas
+Em Python podemos escrever codigos complexos em linhas menores
+Em Python podemos usar diversar bibliotecas externas
+Em Python podemos mexer nos built in (comandos internos do python) 
+Em Python podemos criar dicionario sobre qualquer coisa
+Em Python podemos programar orientado a objetos do mundo real
+Em Python podemos programar com mais eficiencia
+Em Python podemos ler e gravar arquivos na memoria
+Em Python podemos criar programas com mais facilidade
+Em Python podemos usar uma variavel como uma instancia
+Em Python podemos usar um atributo como uma nova instancia
+Em Python podemos modelar diversar classes
+Em Python podemos fazer aplicacoes para web
+Em Python podemos programar para dispositivos moveis

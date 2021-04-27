@@ -1,0 +1,47 @@
+from random import randint
+
+class Die():
+	def __init__(self, sides):
+		self.sides = sides
+	
+	def roll_die(self):
+		self.numero_aleatorio = randint(1, self.sides)
+		print("\n *** jogando dado *** \n")
+		print(" caiu no número: " + str(self.numero_aleatorio))
+	
+print("Dado de 6 lados")		
+sides_06 = Die(6)
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+print("\n *** Dado de 10 lados *** \n")
+sides_06 = Die(10)
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+print("\n *** Dado de 20 lados *** \n")
+sides_06 = Die(20)
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
+sides_06.roll_die()
